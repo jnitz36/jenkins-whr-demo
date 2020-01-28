@@ -1,4 +1,4 @@
-// push test
+// push test2
 package main
 
 import (
